@@ -1,2 +1,0 @@
-# Java-diary
-# Java-diary
